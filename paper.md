@@ -16,3 +16,7 @@ A large uncertainty in modelling BB0A is balh blah balh.
 # Simulations 
 
 afafa
+
+# Methods
+
+1 2 3
