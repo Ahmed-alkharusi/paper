@@ -15,8 +15,6 @@ Jones
 A large uncertainty in modelling BB0A is balh blah balh.
 # Simulations 
 
-afafa
-<<<<<<< HEAD
 
 # Methods
 
@@ -24,5 +22,3 @@ afafa
 
 smallerr particles measured
 
-=======
->>>>>>> parent of fefd27a (Describe methods)
