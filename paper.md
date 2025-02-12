@@ -26,3 +26,6 @@ smallerr particles measured
 
 1+1=2
 
+# Figures
+
+Figures blah blah
