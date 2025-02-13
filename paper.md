@@ -1,31 +1,8 @@
-# Title
-confilict Quantum geometry & simulations
+# Ahmed
 
-# Author
-Ahmed Al-kharusi
-Ali 
-# Intro
-
-Git course
-
-particle size PCASP (Bloggs)
-
-Jones
-
-A large uncertainty in modelling BB0A is balh blah balh.
-# Simulations 
+## Al-kharusi
 
 
-# Methods
+### 3rd level
 
-1 2 3
-
-smallerr particles measured
-
-# Results
-
-1+1=2
-
-# Figures
-
-Figures blah blah
+ahkjhfajhefo;a
